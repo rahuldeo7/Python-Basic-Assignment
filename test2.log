@@ -1,0 +1,12 @@
+2022-03-02 01:09:34,104 this is my info log
+2022-03-02 01:09:34,104 this is my warning log
+2022-03-02 01:09:34,104 this is my debug log
+2022-03-02 01:11:27,726 this is my info log
+2022-03-02 01:11:27,727 this is my warning log
+2022-03-02 01:11:27,728 this is my debug log
+2022-03-02 01:11:47,657 INFO this is my info log
+2022-03-02 01:11:47,657 WARNING this is my warning log
+2022-03-02 01:11:47,657 DEBUG this is my debug log
+2022-03-02 01:23:13,658 DEBUG pickle loaded: /home/rahul/anaconda3/lib/python3.9/logging/__init__.py
+2022-03-02 01:26:30,446 INFO The code began its execution with value 4 and 2
+2022-03-02 01:26:44,699 INFO The code began its execution with value 4 and 2

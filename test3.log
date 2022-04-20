@@ -1,0 +1,29 @@
+2022-03-02 01:28:11,194 ERROR Error Occured
+2022-03-02 01:28:28,990 INFO The code began its execution with value 4 and 2
+2022-03-02 01:28:29,440 ERROR Error Occured
+2022-03-02 01:28:29,441 ERROR Error : division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_768986/817241377.py", line 3, in div
+    div = a/b
+ZeroDivisionError: division by zero
+2022-03-02 01:29:04,989 ERROR Error Occured
+2022-03-02 01:29:04,990 ERROR Error : division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_768986/817241377.py", line 3, in div
+    div = a/b
+ZeroDivisionError: division by zero
+2022-03-02 01:29:37,649 INFO The code began its execution with value 4 and 2
+2022-03-02 01:29:38,111 ERROR Error Occured
+2022-03-02 01:29:38,113 ERROR Error : division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_768986/817241377.py", line 3, in div
+    div = a/b
+ZeroDivisionError: division by zero
+2022-03-02 01:31:17,614 INFO The code began its execution with value 4 and 2
+2022-03-02 01:31:17,958 INFO The code began its execution with value 4 and 0
+2022-03-02 01:31:17,959 ERROR Error Occured
+2022-03-02 01:31:17,959 ERROR Error : division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_768986/1991069481.py", line 4, in div
+    div = a/b
+ZeroDivisionError: division by zero
